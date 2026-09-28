@@ -1,0 +1,9 @@
+/server
+*.exe
+
+*.out
+
+.idea/
+.vscode/
+.kilo/
+.DS_Store
