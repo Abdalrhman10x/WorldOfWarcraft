@@ -1,9 +1,17 @@
+# Build output — covers any name you choose with go build -o
+/bin/
 /server
+/wow
 *.exe
-
 *.out
+*.test
 
-.idea/
+# Go
+vendor/
+
+# Editors.idea/
 .vscode/
-.kilo/
 .DS_Store
+
+# Local env
+.env
